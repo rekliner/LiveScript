@@ -1,0 +1,1 @@
+{"setlist_xpos": 229, "xpos": 617, "setlist_ypos": 279, "control_panel_ypos": 1, "tempo": 110.0, "ypos": 305, "control_panel_xpos": 1003, "setlist_file": "songs/setlist.txt"}

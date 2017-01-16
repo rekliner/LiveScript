@@ -1,0 +1,11 @@
+Looper,start of song,trackblock Loops midi 0 audio 8 NAMES loop1 loop2 loop3 loop4 loop5 loop6 loop7 loop8, output KeysIn2 fm8 0, output KeysIn1 KontaktBass, output Fishman KontaktBass, playback stop, overdub off, mute arp, kit DrumKits 0, vol GuitarIn 69, vol massiveBass 67, vol kontaktBass 75, vol Kontakt2 69, vol DrumKits 69, vol voxin 75, vol fm8 55, devon KontaktBass fold, kit drumkits 3,reset save Rec,
+adjust inputs,track ins,inputblock Loops Instruments Instruments Instruments Instruments Instruments Instruments Instruments Instruments, send 1 VoxIn 0, unmute Fishman, insub fishman 6, reset save Rec
+Start click,4/4,tempo 120, metro on, playback start, box Loops 1 
+record loop,looping, stop loops, rec loop1 slot 1 bars 4
+record loop,looping, rec loop2 slot 1 bars 4
+record loop,looping, rec loop3 slot 1 bars 4
+record loop,looping, rec loop4 slot 1 bars 4
+record loop,looping, rec loop5 slot 1 bars 4
+record loop,looping, rec loop6 slot 1 bars 4
+record loop,looping, rec loop7 slot 1 bars 4
+record loop,looping, rec loop8 slot 1 bars 4

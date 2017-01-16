@@ -1,0 +1,1 @@
+[["Wild7d", "songs/Wild7d.txt"], ["Succumb1", "songs/Succumb1.txt"], ["Wired", "songs\\Wired.txt"], ["barLooper", "songs/1barLooper.txt"], ["2barLooper", "songs/2barLooper.txt"]]

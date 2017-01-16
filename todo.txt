@@ -1,0 +1,31 @@
+-aliases on script not working?
+cancel timers prob flaky
+delete temp files
+change quant
+note holder pedal still sucks
+-playlist
+~control panel (play & stop for now) pgm changes per channel, scene selector
+-b tag for beats
+redo key stand...again
+sort delays on save?
+-make filler words optional or kill them (stragglers)
+ctrl s == save
+relative volume changes / fades
+? rec needs to check if existing clip is playing...play is toggling too
+unmute/mute all
+-put ls parser in include
+-extra /n's in scenes and 
+-list index out of range
+-stupid select solid
+blank space on setlist dangerous.  frame cover
+-sustain intercepted
+-small music stand (in attic)
+backup and save song as for setlist manager
+split launchpad?
+-write 3rd song
+get good recordings
+cheat sheet
+-names not updating
+~fade returns to original if 0
+-devices on sends!
+-assign knob cmd
